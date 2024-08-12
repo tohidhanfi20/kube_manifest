@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: tohidaws/todo-app:build-17
+        image: tohidaws/todo-app:build-19
         ports:
         - containerPort: 80
